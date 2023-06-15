@@ -1,18 +1,24 @@
-# Project-Create-a-Token
 
-About project:
+# Project Title
+
+Creating a token
+
+
+## Documentation
+
+[Documentation](https://linktodocumentation)
 
 Creating a  contract that contains: 
 
-A public variables 
+-A public variables
 
-A mapping function,
+-A mapping function
 
-A mint function,
+-A mint function
 
-A burn function.
+-A burn function
 
-This contract have public variables that store the details about your coin (Token Name, Token Abbrv., Total Supply)
+This contract have public variables that store the details about your coin (Token Name, Token Abbrv, Total Supply)
 
 A mapping for mapping  addresses to balances (address => uint)
 
@@ -22,14 +28,18 @@ The function then increases the total supply by that number and increases the ba
 A burn function which works the opposite of the mint function, as it will destroy tokens. It will take an address and value just like the mint functions. It will then deduct the value from the total supply and from the balance of the address.
 
 Burn function have conditionals to make sure the balance of account is greater than or equal to the amount that is supposed to be burned.
+## 🚀 About Me
+Mail: dkher4@gmail.com,
+      21cbt1090@cuchd.in
 
 
-###Built with:
+## Prerequisites:
 
 Solidity
 
+Basic knowledge about functions
 
-Prerequisites:
 
-Solidity language
+## Built in
 
+Solidity
