@@ -24,7 +24,7 @@ A burn function which works the opposite of the mint function, as it will destro
 Burn function have conditionals to make sure the balance of account is greater than or equal to the amount that is supposed to be burned.
 
 
-Built with:
+###Built with:
 
 Solidity
 
